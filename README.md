@@ -29,7 +29,21 @@ Whether working independently or as part of a team, I am committed to delivering
 
 <h3>Those are my tech stack</h3>
 
-<img src="assets/images/symfony-1.png" alt="symfony" />
-<img src="assets/images/api-platform.png" alt="api-platform" />
-<img src="assets/images/sylius.png" alt="sylius" />
-<img src="assets/images/flutter.png" alt="flutter" />
+<img src="assets/images/symfony-1.png" alt="symfony" width="50" height="50" />
+<img src="assets/images/api-platform.png" alt="api-platform" width="50" height="50" />
+<img src="assets/images/sylius.png" alt="sylius" width="50" height="50" />
+<img src="assets/images/flutter.png" alt="flutter" width="50" height="50" />
+<img src="assets/images/react.png" alt="react" width="50" height="50" />
+<img src="assets/images/bootstrap.png" alt="bootstrap" width="50" height="50" />
+<img src="assets/images/jquery.png" alt="jquery" width="50" height="50" />
+
+<h3>My tools</h3>
+<img src="assets/images/vscode.png" alt="vscode" width="50" height="50" />
+<img src="assets/images/github.png" alt="github" width="50" height="50" />
+<img src="assets/images/gitlab.png" alt="gitlab" width="50" height="50" />
+<img src="assets/images/docker.png" alt="docker" width="50" height="50" />
+
+<h3>My OS</h3>
+<img src="assets/images/wsl.jpg" alt="wsl" width="50" height="50" />
+<img src="assets/images/ubuntu-2.svg" alt="ubuntu" width="50" height="  50" />
+<img src="assets/images/microsoft-windows-22.svg" alt="windows" width="50" height="50" />
