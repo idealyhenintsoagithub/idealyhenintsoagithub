@@ -28,22 +28,27 @@ I am comfortable working across multiple operating systems, including WSL, Ubunt
 Whether working independently or as part of a team, I am committed to delivering high-quality software solutions. I enjoy tackling complex challenges and am always open to new opportunities for collaboration and growth in the tech community.
 
 <h3>Those are my tech stack</h3>
-
-<img src="assets/images/symfony-1.png" alt="symfony" width="50" height="50" />
-<img src="assets/images/api-platform.png" alt="api-platform" width="50" height="50" />
-<img src="assets/images/sylius.png" alt="sylius" width="50" height="50" />
-<img src="assets/images/flutter.png" alt="flutter" width="50" height="50" />
-<img src="assets/images/react.png" alt="react" width="50" height="50" />
-<img src="assets/images/bootstrap.png" alt="bootstrap" width="50" height="50" />
-<img src="assets/images/jquery.png" alt="jquery" width="50" height="50" />
+<div display="flex" align-items="center" justify-content="space-between" flex-wrap="wrap" gap="10px">
+  <img src="assets/images/symfony-1.png" alt="symfony" width="50" height="50" />
+  <img src="assets/images/api-platform.png" alt="api-platform" width="50" height="50" />
+  <img src="assets/images/sylius.png" alt="sylius" width="50" height="50" />
+  <img src="assets/images/flutter.png" alt="flutter" width="50" height="50" />
+  <img src="assets/images/react.png" alt="react" width="50" height="50" />
+  <img src="assets/images/bootstrap.png" alt="bootstrap" width="50" height="50" />
+  <img src="assets/images/jquery.png" alt="jquery" width="50" height="50" />
+</div>
 
 <h3>My tools</h3>
-<img src="assets/images/vscode.png" alt="vscode" width="50" height="50" />
-<img src="assets/images/github.png" alt="github" width="50" height="50" />
-<img src="assets/images/gitlab.png" alt="gitlab" width="50" height="50" />
-<img src="assets/images/docker.png" alt="docker" width="50" height="50" />
+<div display="flex" align-items="center" justify-content="space-between" flex-wrap="wrap" gap="10px">
+  <img src="assets/images/vs-code.svg" alt="vscode" width="50" height="50" />
+  <img src="assets/images/github.png" alt="github" width="50" height="50" />
+  <img src="assets/images/gitlab.png" alt="gitlab" width="50" height="50" />
+  <img src="assets/images/docker.png" alt="docker" width="50" height="50" />
+</div>
 
 <h3>My OS</h3>
-<img src="assets/images/wsl.jpg" alt="wsl" width="50" height="50" />
-<img src="assets/images/ubuntu-2.svg" alt="ubuntu" width="50" height="  50" />
-<img src="assets/images/microsoft-windows-22.svg" alt="windows" width="50" height="50" />
+<div display="flex" align-items="center" justify-content="space-between" flex-wrap="wrap" gap="10px">
+  <img src="assets/images/wsl.jpg" alt="wsl" width="100" height="100" />
+  <img src="assets/images/ubuntu-2.svg" alt="ubuntu" width="50" height="  50" />
+  <img src="assets/images/microsoft-windows-22.svg" alt="windows" width="50" height="50" />
+</div>
