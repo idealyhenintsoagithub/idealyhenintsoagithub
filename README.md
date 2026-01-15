@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **idealyhenintsoagithub/idealyhenintsoagithub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h2 align="center">Hi there i'm idealy henintsoa</h2>
+<h2 align="center">Hi👋 i'm idealy henintsoa</h2>
 
 I am a passionate software developer with a strong background in building robust and scalable applications. My expertise covers both backend and frontend development, allowing me to deliver complete solutions tailored to project needs. I am always eager to learn new technologies and improve my skills to stay up-to-date with the latest trends in software engineering.
 
