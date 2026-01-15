@@ -52,3 +52,17 @@ Whether working independently or as part of a team, I am committed to delivering
   <img src="assets/images/ubuntu-2.svg" alt="ubuntu" width="50" height="  50" />
   <img src="assets/images/microsoft-windows-22.svg" alt="windows" width="50" height="50" />
 </div>
+
+<h3>My links</h3>
+<ul>
+  <li>
+    <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Gmail" width="20" height="20" />
+    <a href="mailto:idealyhenintsu@gmail.com">idealyhenintsu@gmail.com</a>
+  </li>
+  <li>
+    <img src="https://img.icons8.com/color/48/000000/presentation.png" alt="Website" width="20" height="20" />
+    <a href="https://idealyhenintsu.vercel.app/">https://idealyhenintsu.vercel.app/</a>
+  </li>
+</ul>
+
+
