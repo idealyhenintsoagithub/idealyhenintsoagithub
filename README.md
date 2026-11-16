@@ -1,68 +1,74 @@
+<div align="center">
+  <h1>Hi, I'm Idealy Henintsoa 👋</h1>
+  <p><strong>Software developer · Backend &amp; frontend</strong></p>
+  <p>Building robust web and mobile applications with a focus on maintainable, practical solutions.</p>
 
-
-<!--
-**idealyhenintsoagithub/idealyhenintsoagithub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<h2 align="center">Hi👋 i'm idealy henintsoa</h2>
-
-I am a passionate software developer with a strong background in building robust and scalable applications. My expertise covers both backend and frontend development, allowing me to deliver complete solutions tailored to project needs. I am always eager to learn new technologies and improve my skills to stay up-to-date with the latest trends in software engineering.
-
-For backend development, I primarily use Symfony and API Platform to create powerful RESTful APIs and web services. These frameworks enable me to design secure, maintainable, and high-performance server-side applications. On the frontend, I leverage React and Flutter to craft responsive and engaging user interfaces for both web and mobile platforms.
-
-My daily toolkit includes Visual Studio Code for efficient coding, GitHub and GitLab for version control and collaboration, and Docker for containerization and environment management. These tools help me streamline development workflows and ensure consistency across different stages of the project lifecycle.
-
-I am comfortable working across multiple operating systems, including WSL, Ubuntu, and Windows. This flexibility allows me to adapt to various development environments and collaborate seamlessly with diverse teams.
-
-Whether working independently or as part of a team, I am committed to delivering high-quality software solutions. I enjoy tackling complex challenges and am always open to new opportunities for collaboration and growth in the tech community.
-
-<h3>Those are my tech stack</h3>
-<div display="flex" align-items="center" justify-content="space-between" flex-wrap="wrap" gap="10px">
-  <img src="assets/images/symfony-1.png" alt="symfony" width="50" height="50" />
-  <img src="assets/images/api-platform.png" alt="api-platform" width="50" height="50" />
-  <img src="assets/images/sylius.png" alt="sylius" width="50" height="50" />
-  <img src="assets/images/flutter.png" alt="flutter" width="50" height="50" />
-  <img src="assets/images/react.png" alt="react" width="50" height="50" />
-  <img src="assets/images/bootstrap.png" alt="bootstrap" width="50" height="50" />
-  <img src="assets/images/jquery.png" alt="jquery" width="50" height="50" />
+  <a href="mailto:idealyhenintsu@gmail.com">
+    <img src="https://img.shields.io/badge/Email-idealyhenintsu%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Idealy" />
+  </a>
+  <a href="https://idealyhenintsu.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20my%20website-222222?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit my portfolio" />
+  </a>
 </div>
 
-<h3>My tools</h3>
-<div display="flex" align-items="center" justify-content="space-between" flex-wrap="wrap" gap="10px">
-  <img src="assets/images/vs-code.svg" alt="vscode" width="50" height="50" />
-  <img src="assets/images/github.png" alt="github" width="50" height="50" />
-  <img src="assets/images/gitlab.png" alt="gitlab" width="50" height="50" />
-  <img src="assets/images/docker.png" alt="docker" width="50" height="50" />
+---
+
+### About me
+
+I work across the stack, from building REST APIs to creating responsive web and mobile interfaces. My main development frameworks are **Symfony** and **API Platform** on the backend, with **React** and **Flutter** for frontend and mobile experiences.
+
+I enjoy solving challenging problems, learning new tools, and collaborating to deliver high-quality software.
+
+### Tech stack
+
+<table>
+  <tr>
+    <td align="center" width="120"><strong>Backend</strong></td>
+    <td>
+      <img src="assets/images/symfony-1.png" alt="Symfony" height="42" />
+      &nbsp;
+      <img src="assets/images/api-platform.png" alt="API Platform" height="42" />
+      &nbsp;
+      <img src="assets/images/sylius.png" alt="Sylius" height="42" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Frontend &amp; mobile</strong></td>
+    <td>
+      <img src="assets/images/react.png" alt="React" height="42" />
+      &nbsp;
+      <img src="assets/images/flutter.png" alt="Flutter" height="42" />
+      &nbsp;
+      <img src="assets/images/bootstrap.png" alt="Bootstrap" height="42" />
+      &nbsp;
+      <img src="assets/images/jquery.png" alt="jQuery" height="42" />
+    </td>
+  </tr>
+</table>
+
+### Tools &amp; environment
+
+<p>
+  <img src="assets/images/vs-code.svg" alt="Visual Studio Code" height="40" />
+  &nbsp;
+  <img src="assets/images/github.png" alt="GitHub" height="40" />
+  &nbsp;
+  <img src="assets/images/gitlab.png" alt="GitLab" height="40" />
+  &nbsp;
+  <img src="assets/images/docker.png" alt="Docker" height="40" />
+  &nbsp;
+  <img src="assets/images/git.png" alt="Git" height="40" />
+</p>
+<p>
+  <img src="assets/images/wsl.jpg" alt="WSL" height="40" />
+  &nbsp;
+  <img src="assets/images/ubuntu-2.svg" alt="Ubuntu" height="40" />
+  &nbsp;
+  <img src="assets/images/microsoft-windows-22.svg" alt="Windows" height="40" />
+</p>
+
+---
+
+<div align="center">
+  <sub>Thanks for stopping by — feel free to reach out!</sub>
 </div>
-
-<h3>My OS</h3>
-<div display="flex" align-items="center" justify-content="space-between" flex-wrap="wrap" gap="10px">
-  <img src="assets/images/wsl.jpg" alt="wsl" width="100" height="100" />
-  <img src="assets/images/ubuntu-2.svg" alt="ubuntu" width="50" height="  50" />
-  <img src="assets/images/microsoft-windows-22.svg" alt="windows" width="50" height="50" />
-</div>
-
-<h3>My links</h3>
-<ul>
-  <li>
-    <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Gmail" width="20" height="20" />
-    <a href="mailto:idealyhenintsu@gmail.com">idealyhenintsu@gmail.com</a>
-  </li>
-  <li>
-    <img src="https://img.icons8.com/color/48/000000/presentation.png" alt="Website" width="20" height="20" />
-    <a href="https://idealyhenintsu.vercel.app/">https://idealyhenintsu.vercel.app/</a>
-  </li>
-</ul>
-
-
